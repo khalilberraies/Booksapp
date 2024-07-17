@@ -51,6 +51,7 @@ class _BookDetailPageState extends State<BookDetailPage> {
           height: 58.49,
         ),
         centerTitle: true,
+        automaticallyImplyLeading: false,
       ),
       body: SingleChildScrollView(
         child: Padding(
